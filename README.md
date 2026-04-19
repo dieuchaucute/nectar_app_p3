@@ -1,8 +1,8 @@
 ## Nguyễn Thị Diệu Châu - 23810310183 - D18CNPM4
 ## Thực hành 19/04/2026 (N1+N2): Nectar App - P3 - Search/Filter
 ## <img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/9586e8f8-7c99-4248-b6fa-568382a696a7" />
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/9c0855b3-589d-4a32-80f5-636412191d52" />
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/a66c8e90-56c5-4c1d-a207-0e908f9d0121" />
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/0e26ffb6-eeab-4f41-befc-9b012eec4b95" />
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/6baff860-a51e-498c-b24f-aab500f192a4" />
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/3353c6b4-df51-4e4b-b5a4-a0a2effda9c6" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/00fb4f8c-7234-4b5b-94ca-d86aa8bff25e" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/d1f1b672-22ab-4bc8-9a52-a8335a88c6ef" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/70ffdaaa-4df7-4c7f-aa47-7abdfa3077fb" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/c7dc0739-9644-43e7-a0e5-f42b72cfaa3e" />
+<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/1d39acab-e139-4746-a08a-c9c5cf377251" />
